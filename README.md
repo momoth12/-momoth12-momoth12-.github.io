@@ -1,6 +1,6 @@
 # Hi, I'm Mouhamadou! 👋
 
-I'm an Applied Mathematics and Computer Science student at École Polytechnique de Paris.
+I'm an Applied Mathematics and Computer Science student at École Polytechnique of Paris.
 
 ## 📫 Contact
 - **Email**: [mouhamadou.thiaw@polytechnique.edu](mailto:mouhamadou.thiaw@polytechnique.edu)
@@ -17,7 +17,6 @@ I'm an Applied Mathematics and Computer Science student at École Polytechnique 
   - Java
   - C
   - C++
-  - LaTeX
 - **Libraries and Frameworks**:
   - PyTorch
   - scikit-learn
